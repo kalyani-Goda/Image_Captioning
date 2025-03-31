@@ -1,4 +1,4 @@
-# Assignment-3 Discussion: Image Caption Consistency
+# Assignment-3: Image Caption Consistency
 
 **Authors**:  
 Goda Nagakalyani(214050010) 
